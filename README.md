@@ -9,7 +9,6 @@
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![python](https://img.shields.io/badge/python-v3.5.2-blue)
 ![pytorch](https://img.shields.io/badge/pytorch-v1.1.0-blue)
-![GitHub followers](https://img.shields.io/github/followers/Liut2016?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Liut2016?label=Follow&style=social)
 
 ### 论文
@@ -78,7 +77,7 @@
 ### 使用
 - 更改 / 添加模型  
     1. 在models文件夹中添加或更改模型，注意py文件中模型名称统一为Model；
-    2. 在main.py中第8行后面添加你的脚本名称
+    2. 在main.py中第8行末尾添加你的脚本名称
     
 ### 一些结果（欢迎补充）
 | 模型 | rse | rae | corr |
